@@ -29,9 +29,3 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 ## 👨‍💻 PODCAST - EP 01: 
-   
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
