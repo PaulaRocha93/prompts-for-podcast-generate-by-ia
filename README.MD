@@ -17,8 +17,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f)
-https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f
+- [Notion Template](https://regal-abacus-f11.notion.site/PAS-Podcast-AI-Studio-1661b4c3ab0880b49a68cc98c88218f0?pvs=4)
+
 
 ## 🛠️ Instruções de execução
 
